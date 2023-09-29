@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sourabh-Gor
 - 👀 I’m interested in Web Devlopement internships
-- 🌱 I’m currently learning Web Devlopement
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Advanced Artificial Intelligence and Machine Learning
 - 📫 How to reach me Email- sou7474@gmail.com
 
 <!---
